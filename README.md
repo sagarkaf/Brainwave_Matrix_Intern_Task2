@@ -42,7 +42,4 @@ It provides feedback to help users improve weak passwords and create more secure
 1. Python 3.x should be installed on your machine.
    - If Python is not installed, download and install it from [Python's official website](https://www.python.org/downloads/).
 
-### Steps:
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/password-strength-checker.git
+
